@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![SchrodingerSeeCat's github stats](https://github-readme-stats.vercel.app/api?username=SchrodingerSeeCat)](https://github.com/anuraghazra/github-readme-stats)
+[![SchrodingerSeeCat's github stats](https://github-readme-stats.vercel.app/api?username=SchrodingerSeeCat)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [个人博客](https://schrodingerseecat.github.io/)
